@@ -8,6 +8,11 @@ This is the first release of SSO so all feedback/criticism is appreciated.
 
 Any problems you run into I will try and fix when possible...just post them in the BUGS channel in discord if you feel like joinning.
 
+-------
+DISCORD
+-------
+https://discord.gg/ntjcSjYr2G
+
 ---------------
 GETTING STARTED
 ---------------
@@ -35,12 +40,6 @@ Once you get ingame and create your character all I want you to do is open your 
 Pickup whatever items you want...then talk to the Dragon to pick your start.
 
 Next thing is.............DO WHATEVER THE FUCK YOU WANT!!! ITS YOUR PLAYTHROUGH FROM HERE ON OUT!!!!!!! HAVE FUN!!!!!!!!
-
--------
-DISCORD
--------
-https://discord.gg/ntjcSjYr2G
-
 
 Footer
 © 2022 GitHub, Inc.
