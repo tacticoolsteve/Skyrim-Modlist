@@ -23,6 +23,8 @@ Requirements
 
 3. Anniversary Edition Upgrade
 
+4.A Nexus Premium Account is Higly Recommended
+
 ---------------
 GETTING STARTED
 ---------------
