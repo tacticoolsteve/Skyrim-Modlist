@@ -24,6 +24,7 @@ to your liking to see if it improves performance.
 
 If you find no animations are being used and Player or NPCs are T Posing then use the NEMESIS executable in MO2....just click update engine and Launch.
 Nemesis Output should automatically go into the Nemesis Folder..if not then just move the overwrite data to Nemesis. The mod is located in the Output Separator.
+
 -------
 IN GAME
 -------
