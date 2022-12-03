@@ -24,16 +24,11 @@ to your liking to see if it improves performance.
 
 If you find no animations are being used and Player or NPCs are T Posing then use the NEMESIS executable in MO2....just click update engine and Launch.
 Nemesis Output should automatically go into the Nemesis Folder..if not then just move the overwrite data to Nemesis. The mod is located in the Output Separator.
-
-If you want to install/replace any mod that alters the exterior then you will need to rerun DYNDOLOD.
-Just delete the SSELODGen_Output - TEXGEN_Output - Dyndolod_Output..located in the Dyndolod Separator.
-Then run SSELODGen - TEXGEN - DYNDOLOD in that order.Just leave the settings as is and I ran Dyndolod in Medium Preset fyi....if you need more frames then run in a lower preset.
-Just go into the folders of the applications listed above , make sure there is a zipped Output folder ( if not just zip the meshes/textures folder into a folder called modname_Output)
-Then just install into MO2 and put back into the Dyndolod Separator. ( INSTALL EACH FOLDER AFTER YOU RUN EACH ONE.. DO NOT INSTALL AlL OF THEM AT THE END)
-
 -------
 IN GAME
 -------
+
+Wait for all MCM Settings to load and then proceed to open the MCM to configure the game to the way you want to play.
 
 Once you get ingame and create your character all I want you to do is open your inventory and read the Classes Book to choose your CLASS and BIRTH-SIGN.
  
