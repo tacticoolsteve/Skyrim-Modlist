@@ -30,7 +30,7 @@ IN GAME
 
 Wait for all MCM Settings to load and then proceed to open the MCM to configure the game to the way you want to play.
 
-Once you get ingame and create your character all I want you to do is open your inventory and read the Classes Book to choose your CLASS and BIRTH-SIGN.
+Don't forget to open your inventory and read the Classes Book to choose your CLASS and BIRTH-SIGN.
  
 Pickup whatever items you want...then talk to the Dragon to pick your start.
 
