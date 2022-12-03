@@ -18,7 +18,9 @@ Requirements
 ------------
 
 Wabbajack installed on your pc..download here: https://www.wabbajack.org/
+
 A Clean and Legal Copy of Skyrim Special Edition
+
 Anniversary Edition Upgrade
 
 ---------------
