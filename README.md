@@ -8,10 +8,13 @@ This is the first release of SSO so all feedback/criticism is appreciated.
 
 Any problems you run into I will try and fix when possible...just post them in the BUGS channel in discord if you feel like joinning.
 
+Feel free to install any animations you want and bodyslide presets/outfits for CBBE 3BA.Make it yours and customize it to your liking.
+
+
 -------
 DISCORD
 -------
-https://discord.gg/ntjcSjYr2G
+https://discord.gg/6BCWwcVhuq
 
 ------------
 Requirements
@@ -31,11 +34,12 @@ GETTING STARTED
 
 Once you installed SSO through Wabbajack the modlist should be ready to play...just launch the skse through MO2.
 
-If you find performance is choppy then please refer to the BETHINI executable in MO2...you will be able to choose between presets or tweak the settings
-to your liking to see if it improves performance.
-
 If you find no animations are being used and Player or NPCs are T Posing then use the NEMESIS executable in MO2....just click update engine and Launch.
 Nemesis Output should automatically go into the Nemesis Folder..if not then just move the overwrite data to Nemesis. The mod is located in the Output Separator.
+
+If you want to add any outfits to female character then make sure CBBE 3BA Amazing Body is selected and Zeroed Sliders.
+Then under the outfit filter type the name of the outfit then click batch build and the outfit should show up and just click build.
+(OBody will automatically scale the outfit for whatever bodyslide preset you want to use. Press O ingame to select your body preset.)
 
 -------
 IN GAME
