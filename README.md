@@ -41,8 +41,8 @@ If you want to add any outfits to female character then make sure CBBE 3BA Amazi
 Then under the outfit filter type the name of the outfit then click batch build and the outfit should show up and just click build.
 (OBody will automatically scale the outfit for whatever bodyslide preset you want to use. Press O ingame to select your body preset.)
 
-If you add any mods and want to see if you can ESLify then you can use this argument with SSEEdit.
--script:"R88_ESLify.pas"
+If you want to ESLify any mods you add then use this video as a reference.
+https://www.youtube.com/watch?v=g_urrHrGQOY&t=310s&ab_channel=GamerPoets
 
 -------
 IN GAME
