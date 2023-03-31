@@ -14,7 +14,7 @@ Feel free to install any animations you want and bodyslide presets/outfits for C
 -------
 DISCORD
 -------
-https://discord.gg/6BCWwcVhuq
+https://discord.gg/jRsdepkmZt
 
 ------------
 Requirements
