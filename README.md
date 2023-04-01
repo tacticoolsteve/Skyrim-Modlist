@@ -35,7 +35,7 @@ GETTING STARTED
 Once you installed SSO through Wabbajack the modlist should be ready to play...just launch the skse through MO2.
 
 If you find no animations are being used and Player or NPCs are T Posing then use the NEMESIS executable in MO2....just click update engine and Launch.
-Nemesis Output should automatically go into the Nemesis Folder..if not then just move the overwrite data to Nemesis. The mod is located in the Output Separator.
+Nemesis Output should automatically go into the Nemesis Folder..if not then just move the overwrite data to Nemesis. The mod is located in the LEAVE AT BOTTOM  Separator.
 
 If you want to add any outfits to female character then make sure CBBE 3BA Amazing Body is selected and Zeroed Sliders.
 Then under the outfit filter type the name of the outfit then click batch build and the outfit should show up and just click build.
@@ -43,6 +43,8 @@ Then under the outfit filter type the name of the outfit then click batch build 
 
 If you want to ESLify any mods you add then use this video as a reference.
 https://www.youtube.com/watch?v=g_urrHrGQOY&t=310s&ab_channel=GamerPoets
+
+Keep Flat World Map Framework Mod and Plugins at the bottom of the load order.
 
 -------
 IN GAME
