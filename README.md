@@ -1,7 +1,9 @@
+STUNNING SKYRIM OVERHAUL 1.0.1
+
 ------------------------
  WABBAJACK FILE DOWNLOAD
 ------------------------
-https://drive.google.com/file/d/1Qj-P64Ud2j3wn8iHLAXRAYBKMvsOCXvz/view?usp=share_link
+https://drive.google.com/file/d/1yOgLXm5gWPVNbwmNdWeui4X8pshPz-zn/view?usp=share_link
 
 ------------
 INTRODUCTION
@@ -39,6 +41,8 @@ GETTING STARTED
 
 Once you installed SSO through Wabbajack the modlist should be ready to play...just launch the skse through MO2.
 
+Please go to the mcm and look for mcm recorder. Run the Essential Recording and wait for it to finish.
+
 If you find no animations are being used and Player or NPCs are T Posing then use the NEMESIS executable in MO2....just click update engine and Launch.
 Nemesis Output should automatically go into the Nemesis Folder..if not then just move the overwrite data to Nemesis. The mod is located in the LEAVE AT BOTTOM  Separator.
 
@@ -62,6 +66,12 @@ Don't forget to open your inventory and read the Classes Book to choose your CLA
 Pickup whatever items you want...then talk to the Dragon to pick your start.
 
 Next thing is.............DO WHATEVER THE FUCK YOU WANT!!! ITS YOUR PLAYTHROUGH FROM HERE ON OUT!!!!!!! HAVE FUN!!!!!!!!
+
+---------
+CHANGELOG
+---------
+1.0.0 - First Release
+1.0.1 - Added MCM Recorder (Essential Recording)
 
 Footer
 © 2022 GitHub, Inc.
