@@ -1,9 +1,9 @@
-STUNNING SKYRIM OVERHAUL 1.0.1
+STUNNING SKYRIM OVERHAUL 1.0.2
 
 ------------------------
  WABBAJACK FILE DOWNLOAD
 ------------------------
-https://drive.google.com/file/d/1yOgLXm5gWPVNbwmNdWeui4X8pshPz-zn/view?usp=share_link
+https://drive.google.com/file/d/1o5CkM0xrijG6cEq5OGITstk2dvxSr7vC/view?usp=share_link
 
 ------------
 INTRODUCTION
@@ -71,7 +71,11 @@ Next thing is.............DO WHATEVER THE FUCK YOU WANT!!! ITS YOUR PLAYTHROUGH 
 CHANGELOG
 ---------
 1.0.0 - First Release
+
 1.0.1 - Added MCM Recorder (Essential Recording)
+
+1.0.2 - Fixed the Wabbajack File
+      - Added Evirons Riften Warehouse
 
 Footer
 © 2022 GitHub, Inc.
