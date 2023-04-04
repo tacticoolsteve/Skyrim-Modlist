@@ -117,7 +117,7 @@ CHANGELOG
 
    - Deleted Infantry Armor SE Due To It Not Being CBBE
 
-   - Updated Improved Camera SE PR5
+   - Updated To Improved Camera SE PR5
 
   - Reinstalled Nemsis From The Downloads Folder Due To It Crashing On Engine Update (It Works Now)
      
