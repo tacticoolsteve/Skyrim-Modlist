@@ -1,4 +1,4 @@
-STUNNING SKYRIM OVERHAUL 1.0.3
+STUNNING SKYRIM OVERHAUL 1.0.3 (1.0.4 Releasing Soon)
 
 ------------------------
  WABBAJACK FILE DOWNLOAD
@@ -120,6 +120,30 @@ CHANGELOG
    - Updated To Improved Camera SE PR5
 
   - Reinstalled Nemsis From The Downloads Folder Due To It Crashing On Engine Update (It Works Now)
+
+1.0.4 (COMING SOON)
+
+- Changed SSE Engine Fixes For Faster Wait Time and Full Saves
+
+- Removed Simple Offence Suppression Hotkey
+
+ - Added Shouting Obliterates Skeletons
+
+ - Added Infinite Shouting (Your The DragonBorn... Why Should You Have To Wait To Shout)
+
+ - Added No More Blinding Fog (Should help with fog in areas like dungeons...etc)
+
+ - Added Violens KillMoves (No Idea Why I Did Not Have This..Must Have)
+
+ - Added Skyrim Skooma (You Can Get High In Skyrim Now)
+
+- Added DMCO Dodge Mod For MCO-ADXP
+
+- Added Infinity Dodge Animations For DMCO
+
+- Added 360 Movement Behavior (For Smoother Movement)
+
+- Added DMCO Dark Souls Sound Medium Armor Sound (Change It If You Want Or Recommend Something In Discord)
      
 
 
