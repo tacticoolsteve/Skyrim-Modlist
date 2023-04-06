@@ -1,4 +1,4 @@
-STUNNING SKYRIM OVERHAUL 1.0.3 (1.0.4 Releasing Soon)
+STUNNING SKYRIM OVERHAUL 1.0.3 (1.0.4 Releasing Soon.Check The ChangeLog At The Bottom To See What Is Being Added.)
 
 ------------------------
  WABBAJACK FILE DOWNLOAD
