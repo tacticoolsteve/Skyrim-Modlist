@@ -36,9 +36,9 @@ Requirements
 
 4. A Nexus Premium Account is Higly Recommended
 
-5.LoversLab Account
+5. LoversLab Account
 
-6.VectorPlexus Account
+6. VectorPlexus Account
 
 ---------------
 GETTING STARTED
