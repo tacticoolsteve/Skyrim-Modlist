@@ -127,6 +127,10 @@ CHANGELOG
 
 - Removed Simple Offence Suppression Hotkey
 
+- Removed SunHelm
+
+- Added Connors Survival Mode
+
  - Added Shouting Obliterates Skeletons
 
  - Added Infinite Shouting (Your The DragonBorn... Why Should You Have To Wait To Shout)
@@ -141,9 +145,23 @@ CHANGELOG
 
 - Added Infinity Dodge Animations For DMCO
 
-- Added 360 Movement Behavior (For Smoother Movement)
+- Added Movement Behavior Overhaul (For Smoother Movement)
 
 - Added DMCO Dark Souls Sound Medium Armor Sound (Change It If You Want Or Recommend Something In Discord)
+
+- Added HunterBorn Fore Immersive while Hunting
+
+- Added Carry My Carcass To Add Animations WHile Carrying An Animal
+
+- Added Dirt And Blood ( So You Have Something To Show You Been Out Adventuring)
+
+- Added Keep It Clean ( To Compliment Dirt And Blood)
+
+- Added FluffWorks To Make Animal Fur Look Fluffy And Realistic
+
+- Added Eating Animations
+
+
      
 
 
