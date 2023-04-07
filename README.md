@@ -145,7 +145,7 @@ CHANGELOG
 
 - Added Infinity Dodge Animations For DMCO
 
-- Added Movement Behavior Overhaul (For Smoother Movement)
+- Added 360 Movement  Behavior Overhaul (For Smoother Movement with Improved Camera and Third Person)
 
 - Added DMCO Dark Souls Sound Medium Armor Sound (Change It If You Want Or Recommend Something In Discord)
 
@@ -161,7 +161,7 @@ CHANGELOG
 
 - Added Eating Animations
 
-
+- Added Unmarked Locations To Sovngarde
      
 
 
