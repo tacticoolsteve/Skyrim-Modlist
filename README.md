@@ -1,4 +1,4 @@
-STUNNING SKYRIM OVERHAUL 1.0.3 (1.0.4 Releasing Soon.Check The ChangeLog At The Bottom To See What Is Being Added.)
+STUNNING SKYRIM OVERHAUL 1.0.3 (Update Coming)
 
 ------------------------
  WABBAJACK FILE DOWNLOAD
@@ -120,48 +120,6 @@ CHANGELOG
    - Updated To Improved Camera SE PR5
 
   - Reinstalled Nemsis From The Downloads Folder Due To It Crashing On Engine Update (It Works Now)
-
-1.0.4 (COMING SOON)
-
-- Changed SSE Engine Fixes For Faster Wait Time and Full Saves
-
-- Removed Simple Offence Suppression Hotkey
-
-- Removed SunHelm
-
-- Added Connors Survival Mode
-
- - Added Shouting Obliterates Skeletons
-
- - Added Infinite Shouting (Your The DragonBorn... Why Should You Have To Wait To Shout)
-
- - Added No More Blinding Fog (Should help with fog in areas like dungeons...etc)
-
- - Added Violens KillMoves (No Idea Why I Did Not Have This..Must Have)
-
- - Added Skyrim Skooma (You Can Get High In Skyrim Now)
-
-- Added DMCO Dodge Mod For MCO-ADXP
-
-- Added Infinity Dodge Animations For DMCO
-
-- Added 360 Movement  Behavior Overhaul (For Smoother Movement with Improved Camera and Third Person)
-
-- Added DMCO Dark Souls Sound Medium Armor Sound (Change It If You Want Or Recommend Something In Discord)
-
-- Added HunterBorn Fore Immersive while Hunting
-
-- Added Carry My Carcass To Add Animations WHile Carrying An Animal
-
-- Added Dirt And Blood ( So You Have Something To Show You Been Out Adventuring)
-
-- Added Keep It Clean ( To Compliment Dirt And Blood)
-
-- Added FluffWorks To Make Animal Fur Look Fluffy And Realistic
-
-- Added Eating Animations
-
-- Added Unmarked Locations To Sovngarde
      
 
 
