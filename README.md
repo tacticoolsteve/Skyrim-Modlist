@@ -1,10 +1,9 @@
-STUNNING SKYRIM OVERHAUL 1.0.3 (Update Coming)
+STUNNING SKYRIM OVERHAUL ( UNDER MAINTENCE )
 
 ------------------------
  WABBAJACK FILE DOWNLOAD
 ------------------------
 
-https://drive.google.com/file/d/173ez1MDMpEhgVuEhnnpazOst1EUdt_l1/view?usp=share_link
 
 ------------
 INTRODUCTION
