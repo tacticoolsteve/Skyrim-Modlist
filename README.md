@@ -17,12 +17,6 @@ Any problems you run into I will try and fix when possible...just post them in t
 
 Feel free to install any animations you want and bodyslide presets/outfits for CBBE 3BA.Make it yours and customize it to your liking.
 
-
--------
-DISCORD
--------
-https://discord.gg/jRsdepkmZt
-
 ------------
 Requirements
 ------------
