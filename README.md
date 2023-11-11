@@ -11,7 +11,7 @@ INTRODUCTION
 ------------
 Requirements
 ------------
-1. Wabbajack - Download Here: https://www.wabbajack.org/
+1. Wabbajack - https://www.wabbajack.org/
 
 2. A Clean and Legal Copy of Skyrim Special Edition
 
@@ -19,7 +19,7 @@ Requirements
 
 4. A Nexus Premium Account is Higly Recommended
 
-6. VectorPlexus Account
+6. VectorPlexus Account - https://vectorplexis.com/register/
 
 ---------------
 GETTING STARTED
