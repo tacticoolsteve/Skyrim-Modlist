@@ -20,7 +20,6 @@ Requirements
 
 4. A Nexus Premium Account is Higly Recommended
 
-6. VectorPlexus Account - https://vectorplexis.com/register/
 
 ---------------
 GETTING STARTED
