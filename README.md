@@ -1,5 +1,5 @@
 ------------------------
-ADVECTUS( COMING SOON )
+Skyrim Modlist( COMING SOON )
 ------------------------
 ------------------------
  WABBAJACK FILE DOWNLOAD
@@ -9,6 +9,12 @@ ADVECTUS( COMING SOON )
 ------------
 INTRODUCTION
 ------------
+---------------
+GETTING STARTED
+---------------
+-------
+IN GAME
+-------
 ------------
 Requirements
 ------------
@@ -16,17 +22,12 @@ Requirements
 
 2. A Clean And Legal Copy Of Skyrim Special Edition
 
-3. Anniversary Edition Upgrade
+3. Skyrim Special Edition 1.6.1170
+
+4. Anniversary Edition Upgrade Not Required
 
 4. A Nexus Premium Account is Higly Recommended
 
-
----------------
-GETTING STARTED
----------------
--------
-IN GAME
--------
 ---------
 CHANGELOG
 ---------
