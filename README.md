@@ -11,7 +11,7 @@ INTRODUCTION
 ------------
 ---------------
 GETTING STARTED
-1.Use SSE Display Tweaks To Change Your Desired Resolution
+1. Use SSE Display Tweaks To Change Your Desired Resolution
 2. Choose A Profile In The Top Left Of MO2 Based On Whether You Want More Visuals Or Performance
 ---------------
 -------
