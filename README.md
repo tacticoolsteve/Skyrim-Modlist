@@ -3,7 +3,7 @@ Skyrim Modlist 1.0
 ------------------------
 ------------------------
  WABBAJACK FILE DOWNLOAD
- https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=578214&game_id=1704
+   https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=578214&game_id=1704
 ------------------------
 
 
