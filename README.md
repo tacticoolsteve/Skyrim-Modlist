@@ -1,5 +1,5 @@
 ------------------------
-Skyrim Modlist( COMING SOON )
+Skyrim Modlist 1.0
 ------------------------
 ------------------------
  WABBAJACK FILE DOWNLOAD
