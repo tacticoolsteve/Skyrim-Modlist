@@ -9,7 +9,8 @@ Skyrim Modlist 1.0
 ------------
 INTRODUCTION
 
-Skyrim Modlist Is An NSFW Light Weight Requiem Based List That Focuses On Visuals And Balancing
+This Is Dedicated To Host My Wabbajack List When And If I Think It Is Worth Uploading.
+
 ------------
 ---------------
 GETTING STARTED
