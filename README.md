@@ -3,7 +3,6 @@ Skyrim Modlist 1.0
 ------------------------
 ------------------------
  WABBAJACK FILE DOWNLOAD
- https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=578219&game_id=1704
 ------------------------
 
 
@@ -19,12 +18,12 @@ GETTING STARTED
 ---------------
 -------
 IN GAME
-1. MCM Recorder Will Automatically Disable AGO Features To Be Compatible With Requiem
-2. Hold Left Click To Chain Light Attacks
-3. Hold Shift Left Click To Power Attack
-4. Hold Right Click To Block
-5. Press X When You See An Enemy Health Bar Flash To Do A Finsher On Them
-6.Unlock Dodge Perk In The Evasion Tree To Unlock Step Dodging ( Default Dodge Key Is Sprint Key )
+1.
+2.
+3.
+4.
+5.
+6.
 -------
 ------------
 Requirements
@@ -42,9 +41,3 @@ Requirements
 ---------
 CHANGELOG
 ---------
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Sec
