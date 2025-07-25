@@ -17,7 +17,7 @@ Requirements
 ------------
 1. Wabbajack - https://www.wabbajack.org/
 
- 2. A Clean And Legal Copy Of Skyrim Special Edition - https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
+ 2. A Clean And Legal Copy Of Skyrim Special Edition  https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 
 3. A Fresh Install Of Skyrim Special Edition 1.6.1170
 
