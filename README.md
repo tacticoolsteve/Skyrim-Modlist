@@ -21,7 +21,7 @@ Requirements
 
 3. A Fresh Install Of Skyrim Special Edition 1.6.1170
 
-4. Anniversary Edition Upgrade Not Required
+4. Anniversary Edition Upgrade
 
 4. A Nexus Premium Account is Higly Recommended
 
